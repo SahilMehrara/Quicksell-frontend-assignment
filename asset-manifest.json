@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Quicksell-frontend-assignment/static/css/main.9984a79e.css",
+    "main.js": "/Quicksell-frontend-assignment/static/js/main.c8b7a66f.js",
+    "static/media/dot.svg": "/Quicksell-frontend-assignment/static/media/dot.9ecd53ad760ad2439b4dd0eb960d336a.svg",
+    "static/media/dotimg.svg": "/Quicksell-frontend-assignment/static/media/dotimg.8c6ee420d15e53af186e3b58bef95717.svg",
+    "static/media/icon.svg": "/Quicksell-frontend-assignment/static/media/icon.dc3155512d91e4d36b580be050bf4201.svg",
+    "static/media/urgent.svg": "/Quicksell-frontend-assignment/static/media/urgent.0b1a2b9e70572e930631d1e961d449f3.svg",
+    "index.html": "/Quicksell-frontend-assignment/index.html",
+    "static/media/dropdown.svg": "/Quicksell-frontend-assignment/static/media/dropdown.096732973dde12450bb0f427a65eaff1.svg",
+    "static/media/plus.svg": "/Quicksell-frontend-assignment/static/media/plus.eb1c86350190b10435f211654f7ff2aa.svg",
+    "static/media/high.svg": "/Quicksell-frontend-assignment/static/media/high.b649258efa0190b21d8d8d130d54c84d.svg",
+    "main.9984a79e.css.map": "/Quicksell-frontend-assignment/static/css/main.9984a79e.css.map",
+    "main.c8b7a66f.js.map": "/Quicksell-frontend-assignment/static/js/main.c8b7a66f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9984a79e.css",
+    "static/js/main.c8b7a66f.js"
+  ]
+}

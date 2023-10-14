@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Poppins:wght@200;300&display=swap');
+.hader_flex{
+    display: flex;
+    justify-content: space-between;
+
+}
+.align{
+    display: flex;
+    margin-left: 3px;
+}
+.dot_dot{
+    width: 20px;
+    height: 20px;
+    margin-top:20px
+}
+
+ 
+
+.len_wid {
+    display: flex;
+        padding: 12px;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+        align-self: stretch;
+        border-radius: 7px;
+            margin:0 0 10px 0;
+            background: #FFF;
+            width:16rem; 
+            height:7rem;
+}
+
+.main{
+    display: flex;
+        width: 2056px;
+        height: 971px;
+        align-items: flex-start;
+}
+
+
+.cantainer{
+    display: flex;
+        padding: 0px 20px;
+        flex-direction: column;
+        align-items: flex-start;
+        flex: 1 0 0;
+        align-self: stretch;
+}
+
+
+
+.priority_of{
+    color: #000;
+        font-family: Inter;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+}
+
+
+.upper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch;
+}
+.mid{
+    display: flex;
+        align-items: flex-start;
+        gap: 8px;
+        align-self: stretch;
+}
+.title_name{
+    flex: 1 0 0;
+    color: #000;
+        font-family: Inter;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+}
+.lower{
+        display: flex;
+        padding: 3px 4px;
+        margin-left:0.5rem ;
+        align-items: center;
+        gap: 4px;
+        border-radius: 4px;
+        border: 1px solid #BEC2C8;
+        background: #FFF;
+        width: 117px;
+}
+
+.low_title{
+    color: #89919B;
+        font-family: Inter;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+}
+
+
+.cam{
+    color: #777D87;
+        font-family: Inter;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+}
+
+.profile{
+        display: flex;
+        width: 24px;
+        height: 24px;
+        padding: 4px 3px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-radius: 44px;
+        background: #549D79;
+        color: #FFF;      
+}
+
+ 
+
+.header_flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.h4class{
+    margin-left: 0.5rem;
+}
+
+
+.imgsize{
+    height: 15px;
+    width: 15px;
+    /* margin-top: 2px; */
+}
+
+.button{
+    font-family: Inter;
+    margin-left:3rem;
+}
+
+.len{
+    /* margin-top: 1rem ;
+     */
+     padding-top: 0.35rem;
+     margin-left: 0.5rem;
+     font-family: Inter;
+     /* background-color: #549D79; */
+}
+
+.lit{
+    height: 20px;
+    width: 20px;
+}
+
+.dis-flex{
+    display: flex;
+}
